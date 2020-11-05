@@ -1,11 +1,5 @@
-body{
-Width:70%;
-margin:auto;
-text-align:center;
-}
-h1,td{
-text-align:center;
-}
 th{
-background-color:lightblue;
+    background-color:light blue;
+    width:80%;
+    margin:auto;
 }
