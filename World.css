@@ -1,10 +1,11 @@
 marquee{
 Width:80%;
-Margin:auto;
 Font-size:14pt;
 }
 body{
 text-align:center;
+Width:80%;
+Margin:auto;
 }
 
 
